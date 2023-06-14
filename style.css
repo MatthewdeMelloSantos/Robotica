@@ -6,6 +6,7 @@ section{
 
 body{
     background-color: #dfe074;
+    cursor: url('BigFloppa.cur'), auto;
 }
 
 header{
@@ -13,4 +14,7 @@ header{
     
     color : black;
 }
-
+p {
+    width: 1000px;
+    text-indent: 1em;
+}
